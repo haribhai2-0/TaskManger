@@ -1,3 +1,4 @@
+
 # 📝 Task Manager — CRUD Application
 
 A modern and user-friendly **Task Manager web application** built with **React.js** that allows users to create, view, update, search, filter, and delete tasks.
@@ -878,3 +879,7 @@ The project can be further extended with a Node.js/Express backend, MongoDB data
 
 **Important:** If your actual project already has a **Node/Express + MongoDB backend**, send me your folder structure (or `package.json`, `App.jsx`, `TaskForm.jsx`, and backend routes/model). I can make this README **100% accurate to your actual project**, including the exact API endpoints, technologies, folder structure, setup commands, and screenshots section.
 ```
+=======
+# TaskManger
+This is task manage react webpage use to manage task such as create update ,read ,delete it provide user friendly  interface 
+>>>>>>> 021938dbc5712fa357bf8c813463a99aaebb394f
